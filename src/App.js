@@ -1,7 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 import Header from "./components/Header";
-import RecipeComponent from "./components/RecipeComponent";
+import RecipeComponent from "./components/Recipe";
 import styled from "styled-components"
 
 const APP_ID = "d5c0ebd9";
